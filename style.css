@@ -462,9 +462,9 @@ footer {
     padding-left: 20px;
   }
 
-  .nav-tnw,
-  .nav-sections {
-    padding-left: 0 !important;
+  .nav .nav-tnw,
+  .nav .nav-sections {
+    padding-left: 0;
   }
 
   .nav-icons .nav-large {
@@ -578,6 +578,10 @@ footer {
     font-family: 'Kufam', cursive;
     color: #aaa;
 
+  }
+
+  .nav-sections :first-child {
+    padding-left: 12px;
   }
 
   .nav-icons .fa-server {
