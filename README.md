@@ -1,4 +1,4 @@
-![Example screenshot](https://github.com/hrmtk/tnw-clone/blob/master/images/Screenshot_TNW.jpg)
+![Example screenshot](https://github.com/hrmtk/tnw-clone/blob/master/images/Screenshot_TNW.png)
 
 ## The Next Web clone
 > This project was created for practicing building with  responsive design in HTML and CSS.\
